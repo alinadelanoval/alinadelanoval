@@ -136,6 +136,7 @@
   technical reporting**. **44 tests · CI · MIT**.
 
   📎 [Check the repository](https://github.com/alinadelanoval/kojo-kitchen-des)
+
   ---
 
   **Reach me** — alina04.dlna@gmail.com · Cáceres, Spain (CET · UTC+1)
