@@ -2,7 +2,7 @@
 
   **Backend Developer** · MATCOM, Universidad de La Habana · Cáceres, España 🇪🇸
 
-  I build type-safe REST APIs and AI-augmented backends in **C# / .NET, Python and Rust**.
+  I build type-safe backend systems and AI-augmented services in **C# / .NET, Python and Rust**.
   Currently open to Junior Backend Engineer roles in Spain, Europe and remote.
 
   ---
@@ -38,7 +38,7 @@
 
   My contribution as **top contributor (48 commits, #1 of 2)**: I built the **entire LLVM IR codegen backend** — type lowering, ObjectRegistry with vtables,
    protocol dispatch via `type_tag` switch, `is`/`as` type checks and `mem2reg` optimization passes. I wrote the **C runtime library** (`hulk_runtime.a`)
-  and assembled the **AOT compilation pipeline** with `compile_to_binary`. I also authored the **28-page LaTeX architecture report**.
+  and assembled the **AOT compilation pipeline** with `compile_to_binary`. I also authored the **58-page LaTeX architecture report**.
 
   This project demonstrates my ability to **build production-grade language backends: LLVM IR emission, ABI design, optimization passes and cross-language
   FFI**.
@@ -123,7 +123,7 @@
   **independent RNG streams for CRN variance reduction**, and performed **paired t-test analysis** on 30 replications.
 
   The proposed staffing policy **reduces the unsatisfied customer rate from 16.7 % → 3.1 %** with statistical significance **p = 1.12 × 10⁻¹¹**. Full
-  methodology documented in a **47-page LaTeX report** with 7 figures.
+  methodology documented in a **22-page LaTeX report** with 7 figures.
 
   This project demonstrates my ability to **build rigorous stochastic simulations: RNG engineering, event-driven architecture, statistical validation and
   technical reporting**. **44 tests · CI · MIT**.
