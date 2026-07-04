@@ -9,14 +9,7 @@
 
   ### Tech Stack
 
-  ![C#](https://img.shields.io/badge/-C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-  ![.NET](https://img.shields.io/badge/-.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-  ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-  ![Rust](https://img.shields.io/badge/-Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
-  ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-  ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-  ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-  ![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+  [![Tech Stack](https://skillicons.dev/icons?i=cs,dotnet,py,rust,postgres,docker,linux,githubactions)](https://skillicons.dev)
 
   **Backend engineering** — ASP.NET Core · Entity Framework Core · FastAPI · Swagger · xUnit · pytest
   **AI & retrieval** — FAISS · sentence-transformers · Ollama · RAG · LSI · scikit-learn
