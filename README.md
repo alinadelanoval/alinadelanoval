@@ -19,9 +19,9 @@
 
   ### Currently
 
-  - 🎓 Finishing my BSc in Computer Science at MATCOM — Universidad de La Habana (June 2026)
+  - 🎓 Final year of Computer Science at MATCOM — Universidad de La Habana (graduating 2027)
   - 🦀 Top contributor on the [HULK Compiler](https://github.com/GlenRios/HULK_compiler) — Rust · LLVM · **48 commits**
-  - 💼 Open to my first Junior Backend Engineer role
+  - 💼 Open to backend internships and my first Junior Backend Engineer role
   - 📚 Learning: FastAPI in production, observability, and PostgreSQL at scale
 
   ---
