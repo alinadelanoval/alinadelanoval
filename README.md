@@ -11,8 +11,8 @@
 
   [![Tech Stack](https://skillicons.dev/icons?i=cs,dotnet,py,rust,postgres,docker,linux,githubactions)](https://skillicons.dev)
 
-  **Backend engineering** — ASP.NET Core · Entity Framework Core · FastAPI · Swagger · xUnit · pytest
-  **AI & retrieval** — FAISS · sentence-transformers · Ollama · RAG · LSI · scikit-learn
+  **Backend engineering** — ASP.NET Core · Entity Framework Core · FastAPI · Swagger · xUnit · pytest<br>
+  **AI & retrieval** — FAISS · sentence-transformers · Ollama · RAG · LSI · scikit-learn<br>
   **Foundations** — Data structures, algorithms, discrete-event simulation, compilers, Monte Carlo
 
   ---
