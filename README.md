@@ -33,24 +33,20 @@
 
   ---
 
-  ### Featured work
+  📎 Check the repository
 
-  The five pinned projects on the sidebar show where I ship:
+📊 Kojo Kitchen — Discrete Event Simulation
+Python pytest LaTeX Solo
 
-  | Project | My role | What it is |
-  |---|---|---|
-  | [**HULK Compiler**](https://github.com/GlenRios/HULK_compiler) `Rust · LLVM` | **Top contributor · 48 commits** | Full compiler from scratch: NFA lexer
-  (Thompson), hand-written LALR(1) parser, semantic analysis with type inference, LLVM IR codegen and AOT compilation to native x86-64. 384 tests. |
-  | [**OmniRetrieve-Engine**](https://github.com/fabio2k3/OmniRetrieve-Engine) `Python · FAISS · RAG` | Contributor · 11 commits | Semantic search + RAG
-  pipeline over arXiv papers. Modular backend: crawler, LSI + FAISS retrieval, CrossEncoder reranking, RAG orchestrator with Ollama. |
-  | [**Bajas Técnicas — Backend**](https://github.com/ABELNoval/BackEnd_IS_and_BD2_Final_Project) `C# · ASP.NET Core 8` | Backend contributor · 17 commits |
-   REST API for equipment lifecycle management with RBAC (director / technician / receiver), Swagger docs, PDF reports. DDD architecture with EF Core and
-  xUnit. |
-  | [**professional-planner**](https://github.com/alinadelanoval/professional-planner) `Python · STRIPS · A*` | Solo · 275 tests · CI | Career trajectory
-  planner combining STRIPS + A* classical planning with LLM-as-a-Judge evaluation. Streamlit UI, CLI, Monte Carlo simulation with CRN. |
-  | [**kojo-kitchen-des**](https://github.com/alinadelanoval/kojo-kitchen-des) `Python · DES · pytest` | Solo · 44 tests · CI | Discrete event simulation
-  reducing unsatisfied customer rate from 16.7 % to 3.1 % (paired t-test, p = 1.12 × 10⁻¹¹). Custom LCG, 7 figures, LaTeX report. |
+Kojo Kitchen is a discrete event simulation of a fast-food restaurant built with Python and pytest that compares two staffing policies via Monte Carlo replications with Common Random Numbers.
 
+As the sole author, I built a discrete event engine with min-heap Future Event List, implemented a custom LCG with Knuth parameters and independent RNG streams for CRN variance reduction, and performed paired t-test analysis on 30 replications.
+
+The proposed staffing policy reduces the unsatisfied customer rate from 16.7 % → 3.1 % with statistical significance p = 1.12 × 10⁻¹¹. Full methodology documented in a 47-page LaTeX report with 7 figures.
+
+This project demonstrates my ability to build rigorous stochastic simulations: RNG engineering, event-driven architecture, statistical validation and technical reporting. 44 tests · CI · MIT.
+
+📎 Check the repository
   ---
 
   **Reach me** — alina04.dlna@gmail.com · Cáceres, Spain (CET · UTC+1)
